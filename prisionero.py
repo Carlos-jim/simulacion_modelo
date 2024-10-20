@@ -61,3 +61,4 @@ def random_strategy(_):
 
 # Ejecutamos el dilema del prisionero con dos estrategias predeterminadas
 prisoner_dilemma(always_cooperate, always_defect)
+
